@@ -451,7 +451,7 @@ Enterprise/Commercial License - Contact for licensing inquiries
 
 - **Documentation**: See [DEPLOYMENT_GUIDE.md](DEPLOYMENT_GUIDE.md)
 - **Issues**: Open an issue on GitHub
-- **Email**: support@example.com
+- **Email**: farazs156@gmail.com
 
 ---
 
